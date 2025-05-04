@@ -13,12 +13,17 @@ A simple turn-based battle game built with Python and Tkinter. Made as a learnin
 - Restart button, error reporting, and character status display
 
 ## 🖼️ Preview
-*(Add a screenshot or GIF here if you want)*
+
+You can even name your characters before playing the game
+
+![Screenshot](images/screenshot1.png)
+
+![Screenshot](images/screenshot2.png)
+
 
 ## 🔧 Requirements
 - Python 3.x
 - Tkinter (comes pre-installed with most Python versions)
-- `images/` folder with character and enemy PNGs
 
 ## 🚀 Getting Started
 
@@ -39,7 +44,6 @@ nginx
 battle game/
 ├── battlegame.py              # Core game logic
 ├── battle_game_gui_2.py       # GUI with image buttons and logging
-├── images/                    # Character and enemy sprites
 └── LICENSE                    # MIT License
 ```
 ## 📝 License
