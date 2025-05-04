@@ -35,14 +35,13 @@ A simple turn-based battle game built with Python and Tkinter. Made as a learnin
 
 ## 📁 Project Structure
 nginx
-Copy
-Edit
+```
 battle game/
 ├── battlegame.py              # Core game logic
 ├── battle_game_gui_2.py       # GUI with image buttons and logging
 ├── images/                    # Character and enemy sprites
 └── LICENSE                    # MIT License
-
+```
 ## 📝 License
 This project is licensed under the MIT License.
 Feel free to use, modify, and distribute it!
